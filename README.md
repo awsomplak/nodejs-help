@@ -40,5 +40,8 @@ Tested with:
 - msvs_version 2017 and 2022
 - python v2.7.15 and python v3.11.1
 
+Note:
+- If use msvs_version 2022 and python 3.11 still error on install node-sass v7 try to install node-sass@latest or v8.0.0
+
 Source:
 - [node-gyp documentation](https://github.com/nodejs/node-gyp#on-windows)
