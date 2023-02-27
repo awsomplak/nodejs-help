@@ -28,7 +28,7 @@ The notepad will open .npmrc file and add this to your .npmrc file
 ```
 msvs_version=2022
 msbuild_path=C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.exe
-python=C:\Users\ajiwa\AppData\Local\Programs\Python\Python311\python.exe
+python=C:\Users\{Your User Name}\AppData\Local\Programs\Python\Python311\python.exe
 ```
 
 For those config only example, if you have different path for your file, just add to that config.
