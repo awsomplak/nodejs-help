@@ -35,8 +35,10 @@ For those config only example, if you have different path for your file, just ad
 Save changes and run your npm command again to install dependencies or something else.
 
 Tested with:
+- node v18.14.2
+- npm v9.5.0
 - msvs_version 2017 and 2022
-- python 2.7.15 and python 3.11.1
+- python v2.7.15 and python v3.11.1
 
 Source:
 - [node-gyp documentation](https://github.com/nodejs/node-gyp#on-windows)
