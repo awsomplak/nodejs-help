@@ -34,7 +34,9 @@ python=C:\Users\{Your User Name}\AppData\Local\Programs\Python\Python311\python.
 For those config only example, if you have different path for your file, just add to that config.
 Save changes and run your npm command again to install dependencies or something else.
 
-Tested with msvs_version 2017 and 2022.
+Tested with:
+- msvs_version 2017 and 2022
+- python 2.7.15 and python 3.11.1
 
 Source:
 - [node-gyp documentation](https://github.com/nodejs/node-gyp#on-windows)
